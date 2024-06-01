@@ -1,1 +1,1 @@
-# OrgiHarbour
+This Android application is designed to facilitate the selling and supply of organic agricultural products. It provides a platform for both sellers and consumers to connect, allowing sellers to list their products and consumers to browse and purchase them. The application aims to promote organic farming practices and provide consumers with easy access to high-quality organic produce.
